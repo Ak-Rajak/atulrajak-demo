@@ -1,4 +1,4 @@
 # atulrajak-demo
 This is my first Git Repository.
 <br>
-Author - Atul Kumar Rajak
+Author - Atul (Apna College)
